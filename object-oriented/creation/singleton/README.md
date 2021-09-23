@@ -1,3 +1,12 @@
+- [Singleton Pattern](#singleton-pattern)
+  * [When to use it?](#when-to-use-it-)
+  * [Consequences](#consequences)
+      - [Pros](#pros)
+      - [Cons](#cons)
+  * [Class Diagram](#class-diagram)
+      - [Estructure](#estructure)
+      - [Implementation](#implementation)
+
 # Singleton Pattern
 
 Pattern under the creational patterns category.
@@ -29,4 +38,10 @@ is not a Singleton.
 
 ## Class Diagram
 
-<img src="../sources/singleton.svg">
+#### Estructure
+
+<img src="./images/singleton-template.svg">
+
+#### Implementation
+
+<img src="./images/singleton.svg">

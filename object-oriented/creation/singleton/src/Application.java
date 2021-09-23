@@ -8,7 +8,7 @@ import java.sql.PreparedStatement;
 
 import Database;
 
-/** Application Object */
+/** Main Object */
 public class Application {
 
     public static void main(String[] args)
