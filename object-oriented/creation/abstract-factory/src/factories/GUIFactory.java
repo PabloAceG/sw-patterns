@@ -12,6 +12,6 @@ import checkboxes.Checkbox;
  * Common interface for GUIs implementations.
  */
 public interface GUIFactory {
-    Button createButton();
-    Checkbox createCheckbox();
+    public Button createButton();
+    public Checkbox createCheckbox();
 }
