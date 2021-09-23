@@ -1,5 +1,15 @@
+/**
+ * Implementation of concrete Concrete Product of type A from the Abstract
+ * Factory implementation.
+ *
+ * <p>
+ * ConcreteProductA1
+ */
 package buttons;
 
+/**
+ * Implementation of Concrete Object for Linux Button.
+ */
 public class LinuxButton implements Button {
     @Override
     public void paint() {
