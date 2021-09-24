@@ -22,8 +22,9 @@ _getSingleton()_. Thereonafter, the same instance of the object is called until
 that object is destroyed.
 
 ## Grade
-**Complexity**: :star2: :eight_pointed_black_star: :eight_pointed_black_star: :eight_pointed_black_star: :eight_pointed_black_star:
-**Popularity**: :star2: :star2: :star2: :star2: :eight_pointed_black_star:
+**complexity**: :star2: :eight_pointed_black_star: :eight_pointed_black_star: :eight_pointed_black_star: :eight_pointed_black_star:
+
+**popularity**: :star2: :star2: :star2: :star2: :eight_pointed_black_star:
 
 ## When to use it?
 - Resources where access (read/write) should be controlled, like database or 
